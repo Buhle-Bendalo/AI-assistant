@@ -1,0 +1,10 @@
+.env
+.streamlit/
+.idea/
+*.iml
+*.log
+audit.log
+data/
+generated_docs/
+__pycache__/
+venv/
